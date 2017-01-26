@@ -2,7 +2,7 @@
  * File: FileToBeTested.js
  *
  * This file has the code that will be tested by jasmine.
- * It's also a demonstration in javascript scope, which must essential to understanding how to write code that can
+ * It's also a demonstration in javascript scope, which is essential to understanding how to write code that can
  * be tested.
  */
 
